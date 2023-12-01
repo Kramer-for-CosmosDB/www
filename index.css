@@ -1,0 +1,14 @@
+.frame {
+    height: 633px;      /* equals max image height */
+    width: 901px;
+    border: 1px solid red;
+    white-space: nowrap;
+    
+    text-align: center; margin: 1em 0;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}

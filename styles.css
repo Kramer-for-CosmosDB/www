@@ -1,0 +1,10 @@
+body {
+    background-color: #557D9D;
+}
+
+ms-store-badge::part(img) {
+    max-height: 52px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
